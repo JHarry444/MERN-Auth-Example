@@ -1,0 +1,8 @@
+{
+    "JWT": "AUTH_EXAMPLE_JWT",
+    "PROTOCOL": "http://",
+    "LOCATION": "localhost:4494",
+    "USER_URL": "/users",
+    "LOGIN_URL": "/login",
+    "REGISTER_URL": "/register"
+}

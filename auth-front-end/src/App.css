@@ -1,0 +1,9 @@
+section {
+  max-width: 50%;
+  margin: auto;
+  margin-top: 10%;
+}
+
+form>div.alert {
+  margin-top: 5px;
+}
